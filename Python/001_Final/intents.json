@@ -1,0 +1,95 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+            "patterns": ["hello", "how are you", "hi", "whats up", "yo", "hey", "hola"],
+            "responses": ["hey", "hello", "welcome", "i want to talk to you","how are you doing", "yes", "hello"]
+        
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["bye", "see you next time", "adios", "bye bye", "goodbye", "got to go", "talk to you later"],
+            "responses":["see you", "good talking to you", "its past your bedtime", "bye", "alright", "shoo", "goodbye"]
+            
+        },
+        {
+            "tag": "BMW",
+            "patterns":["What does bmw stand for", "What is BMW's longtime brand slogan", "what division  is responsible for producing BMW's", "what type of vehicle did BMW originally build"],
+            "responses":["BMW stands for Bayerische Motoren Werke, which translates from German to Bavarian Motor Works", "BMW's longtime brand slogan in the North American market is The Ultimate Driving Machine. Globally, the slogan is Sheer Driving Pleasure", "BMW production isn't handled by a single division, but by a global network of specialized plants under the BMW Group", "BMW originally built aircraft engines, starting in 1916, and after World War I, they shifted to motorcycles (their first, the R32, in 1923) and then to automobiles, launching their first car, the Dixi 3/15, in 1928, after acquiring the Eisenach factory"]
+            
+        },
+        {
+            "tag": "PORSCHE",
+            "patterns":["what does porsche stand for", "what is porsches long time slogan", "what division  is responsible for producing porsches", "what type of vehicle did Porsche originally build"],
+            "responsses":["Porsche is the surname of its founder, Ferdinand Porsche", "Porsche's most iconic and enduring slogan, deeply ingrained in its brand identity for decades, is (There Is No Substitute)", "Porsches are produced by Dr. Ing. h.c. F. Porsche AG (Porsche AG), which operates as an independent, wholly-owned subsidiary of the larger Volkswagen Group., Porsche originally built high-performance sports cars, starting with the Type 356 in 1948, but company founder Ferdinand Porsche's early work also included groundbreaking electric and hybrid vehicles in the late 1890s, like the Lohner-Porsche and Semper Vivus."]
+            
+        },
+        {
+            "tag": "Corvette"
+            "patterns":["what does corvette stand for", "what is corvettes long time slogan", "what division is responsible for producing corvettes", "what type of vehicle did corvette originally build"],
+            "responses":["The name Corvette doesn't stand for an acronym; it refers to a type of small, fast, maneuverable warship, chosen by GM employee Myron Scott to reflect the car's agility, speed, and performance, drawing on naval tradition for a powerful, iconic name for America's sports car.", "While Chevrolet, the maker of the Corvette, has used several slogans over the years, the Corvette itself is often associated with the descriptive tagline America's Only True Sports Car or simply America's Sports Car, The division responsible for producing Corvettes is part of General Motors (GM), with all current models built exclusively at the Bowling Green Assembly Plant in Kentucky, a specialized facility that has been the Corvette's home since 1981, producing iconic models like the C8 and high-performance variants., Chevrolet originally built the Corvette as a two-seat, fiberglass-bodied convertible, America's first true sports car, introduced in 1953 to compete with popular European models, starting with a six-cylinder engine before quickly adding V8 power for better performance."]
+            
+        },
+        {
+            "tag": "lamborghini"
+            "patterns":["what does lamborghini stand for", "what is lamborghinis long time slogan", "what division is responsible for producing lamborghinis", "what type of vehicles did lamborghini originally build"],
+            "responses":["Lamborghini is primarily the surname of its founder, Ferruccio Lamborghini, an Italian tractor manufacturer who started the luxury sports car company after a dispute with Ferrari", "Lamborghini has never used a single, universal, long time slogan throughout its entire history. Instead, the company utilizes various taglines for different campaigns, models, and eras, with the goal of emphasizing specific characteristics or brand values at a given time.", "Lamborghini is built by Automobili Lamborghini S.p.A., operating as a subsidiary within the Audi AG division of the larger Volkswagen Group, with its main factory and HQ in Sant'Agata Bolognese, Italy, handling design, engineering, and production of their iconic supercars", "Originally, Lamborghini built agricultural tractors, using surplus military parts after WWII to become a major Italian farm machinery producer before Ferruccio Lamborghini launched Automobili Lamborghini in 1963 to create luxury grand touring sports cars, starting with the 350 GT"]
+        
+        },
+        {
+            "tag": "Ferrari"
+            "patterns":["what does ferrari stand for", "what is ferraris long time slogan", "what division is responsible for producing ferraris", "what type of vehicles did ferrari originally build"],
+            "responses":["The name Ferrari comes from the Italian surname of its founder, Enzo Ferrari, with Ferrari itself meaning blacksmith (from ferraro) and representing Italian craftsmanship", "Ferrari doesn't have one single, permanent slogan, but uses powerful phrases from founder Enzo Ferrari and marketing campaigns; key ideas are You can't describe passion, you can only live it", "Ferraris are produced by the core Ferrari S.p.A. company itself, operating from its factory in Maranello, Italy.", "Ferrari originally built high-performance sports cars and race cars, starting with the 1947 Ferrari 125 S, which was a V12-powered two-seater built for racing, quickly followed by grand touring road cars like the 166 Inter, to fund Enzo Ferrari's racing obsession."]
+        
+        },
+        {
+            "tag": "Ford"
+            "patterns":["what does ford stand for", "what is fords long time slogan", "what division is responsible for producing ford's", "what type of vehicles did ford originally build"],
+            "responses":["The name Ford doesn't stand for an acronym; it comes from its founder, Henry Ford, who established the Ford Motor Company in 1903", "Ford's most famous and enduring long-term slogan, especially for trucks, is Built Ford Tough", "Ford Motor Company has restructured its operations into three customer-centered business segments responsible for vehicle production, along with regional divisions that manage manufacturing facilities worldwide.", "Ford originally built experimental vehicles like the 1896 Quadricycle"]
+            
+        },
+        {
+            "tag": "ram"
+            "patterns":["what does ram stand for", "What is rams long time slogan", "what division is responsible for producing ram's", "what type of vehicles did ram originally build"],
+            "responses":["In the automotive world, RAM (now a separate truck brand) doesn't stand for an acronym", "the long-standing slogan for Ram trucks has been Guts. Glory. Ram.", "The Ram Trucks division is responsible for producing Ram cars trucks and commercial vehicles"]
+            
+        },
+        {
+            "tag": "toyota"
+            "patterns":["what does toyota stand for", "what is toyotas long time slogan", "what division is responsible for producing toyotas", "what types of vehicles did toyotas originally build"],
+            "responses":["Toyota comes from the founder's name, Toyoda, meaning fertile rice paddy", "Toyota's current U.S. tagline, introduced in 2012, is Let's Go Places. This phrase reflects a shift toward adventure, optimism, and the future of mobility.", "Toyota builds its vehicles through its regional manufacturing arms, primarily under Toyota Motor North America", "Toyota originally built trucks and early passenger cars"]
+            
+        },
+        {
+            
+            
+            
+            
+            
+            
+            
+        }
+            
+            
+            
+            
+            
+            
+        }
+            
+            
+        }
+            
+            
+            
+            
+            
+            
+        }
+        
+        
+            
+        } 
+         
+    ]
+}
